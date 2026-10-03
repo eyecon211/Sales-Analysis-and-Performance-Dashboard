@@ -140,11 +140,12 @@ Amount of Product: 50
 
 ##📈 Dashboard Design
 
-<img width="659" height="361" alt="Screenshot 2026-10-03 103124" src="https://github.com/user-attachments/assets/edbe8012-b49e-4ab7-9232-92fc86863f3d" />
-<img width="659" height="359" alt="Screenshot 2026-10-03 103114" src="https://github.com/user-attachments/assets/3f91e429-1e3f-469e-a842-5b9c2664a87d" />
-<img width="665" height="357" alt="Screenshot 2026-10-03 103104" src="https://github.com/user-attachments/assets/ccd563ea-d717-4277-b3cc-edbf312fe8a5" />
-<img width="638" height="360" alt="Screenshot 2026-10-03 103051" src="https://github.com/user-attachments/assets/6e50ab83-726b-48b3-aa9c-5c56f3aa5ccb" />
-<img width="635" height="356" alt="Screenshot 2026-10-03 120815" src="https://github.com/user-attachments/assets/2903e753-b687-4ba1-af63-b01682b40b27" />
+<img width="635" height="356" alt="Screenshot 2026-10-03 120815" src="https://github.com/user-attachments/assets/8cfad251-a280-44d3-897f-ec75531acc46" />
+<img width="659" height="361" alt="Screenshot 2026-10-03 103124" src="https://github.com/user-attachments/assets/88a493a8-944b-451d-97ee-d1a8a7632ef9" />
+<img width="659" height="359" alt="Screenshot 2026-10-03 103114" src="https://github.com/user-attachments/assets/5297e32c-30fa-4414-b49c-a043626dcb2c" />
+<img width="665" height="357" alt="Screenshot 2026-10-03 103104" src="https://github.com/user-attachments/assets/8452286a-ca19-42b5-91fc-4755a8313a27" />
+<img width="638" height="360" alt="Screenshot 2026-10-03 103051" src="https://github.com/user-attachments/assets/6c006bb7-d254-4439-90ba-3fc5cd09b328" />
+
 
 ## Key Insights
 
